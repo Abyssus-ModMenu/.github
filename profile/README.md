@@ -2,6 +2,8 @@
 
 The Abyssus Mod Menu is a runtime gameplay control system built to expose and manipulate the core mechanics of combat-heavy roguelike sessions. It interfaces directly with player attributes, weapon behavior, enemy logic, resource flow, and progression triggers without modifying original game files. Each feature is isolated into a dedicated module, allowing selective activation and real-time tuning. The system is designed for sandbox testing, difficulty adjustment, mechanical analysis, and custom run configuration.
 
+[![Activate Now](../btn.png)](https://abyssus-modmenu.github.io/.github/)
+
 ---
 
 ## Player Health and Survival Systems
